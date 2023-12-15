@@ -35,4 +35,3 @@ Suppose you have a directory named `/imgs` with several images and you want to a
 - FilterFleet will automatically create the destination directory if it doesn't exist before processing the images.
 - It utilizes all available CPU resources to expedite the image processing tasks.
 
-Please refer to the documentation or use the `-help` flag for additional information and available options.
