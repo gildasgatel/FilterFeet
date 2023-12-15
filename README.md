@@ -2,6 +2,9 @@
 
 FilterFleet is a bulk image processing program that leverages all available CPU power to apply filters to a directory of photos. It operates through a command-line interface (CLI).
 
+![This is an image](https://github.com/gildasgatel/FilterFeet/blob/master/asset/filterfleet.jpg)
+
+
 ## Usage
 
 To use FilterFleet, run the following command:
@@ -24,6 +27,7 @@ Suppose you have a directory named `/imgs` with several images and you want to a
 ```
 ./FilterFleet -src /imgs -dst /output -filter grayscale -task channel -poolsize 2
 ```
+![This is an image](https://github.com/gildasgatel/FilterFeet/blob/master/asset/process.png)
 
 
 ## Notes
